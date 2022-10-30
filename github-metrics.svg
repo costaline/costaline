@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1037" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1051" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.margin-lr-auto{margin-left:auto;margin-right:auto}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.field.language.details small{display:flex;justify-content:space-between}.field.language.details small{color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.introduction{white-space:normal;margin:0 13px 2px}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.markdown ul{padding-left:24px}.markdown a{color:#58a6ff;text-decoration:none}code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code{display:inline-block}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}span.code{margin:0 4px -3px}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.margin-lr-auto{margin-left:auto;margin-right:auto}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.field.language.details small{display:flex;justify-content:space-between}.field.language.details small{color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.introduction{white-space:normal;margin:0 13px 2px}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.markdown ul{padding-left:24px}code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code{display:inline-block}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}span.code{margin:0 4px -3px}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -37,66 +37,58 @@
                     <svg xmlns="http://www.w3.org/2000/svg" width="480" height="315">
                         <g transform="translate(0,276)" fill="none" font-size="10" font-family="sans-serif" text-anchor="middle">
                             <path class="domain" stroke="currentColor" d="M39.5,6V0.5H441.5V6"/>
-                            <g class="tick" opacity="1" transform="translate(74.12605042016807,0)">
-                                <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">September</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(107.90756302521008,0)">
-                                <line stroke="currentColor" y2="6"/>
-                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">October</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(142.81512605042016,0)">
+                            <g class="tick" opacity="1" transform="translate(76.19047619047619,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">November</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(176.5966386554622,0)">
+                            <g class="tick" opacity="1" transform="translate(114.47619047619048,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">December</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(211.50420168067225,0)">
+                            <g class="tick" opacity="1" transform="translate(154.03809523809522,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">2022</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(246.41176470588235,0)">
+                            <g class="tick" opacity="1" transform="translate(193.60000000000002,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">February</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(277.94117647058823,0)">
+                            <g class="tick" opacity="1" transform="translate(229.33333333333334,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">March</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(312.8487394957983,0)">
+                            <g class="tick" opacity="1" transform="translate(268.8952380952381,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">April</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(346.63025210084027,0)">
+                            <g class="tick" opacity="1" transform="translate(307.18095238095236,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">May</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(381.5378151260504,0)">
+                            <g class="tick" opacity="1" transform="translate(346.7428571428571,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">June</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(415.31932773109247,0)">
+                            <g class="tick" opacity="1" transform="translate(385.0285714285714,0)">
                                 <line stroke="currentColor" y2="6"/>
                                 <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">July</text>
+                            </g>
+                            <g class="tick" opacity="1" transform="translate(424.5904761904762,0)">
+                                <line stroke="currentColor" y2="6"/>
+                                <text fill="currentColor" y="9" dy="0.71em" transform="translate(-5,5) rotate(-45)" style="text-anchor: end; font-size: 20;">August</text>
                             </g>
                         </g>
                         <g transform="translate(39,0)" fill="none" font-size="10" font-family="sans-serif" text-anchor="end">
                             <path class="domain" stroke="currentColor" d="M-6,5.5H0.5V276.5H-6"/>
-                            <g class="tick" opacity="1" transform="translate(0,25.82787930301744)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em" style="font-size: 20;">40k</text>
-                            </g>
-                            <g class="tick" opacity="1" transform="translate(0,54.62090947726307)">
+                            <g class="tick" opacity="1" transform="translate(0,32.573977754661115)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em" style="font-size: 20;">30k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,83.41393965150871)">
+                            <g class="tick" opacity="1" transform="translate(0,68.71598516977407)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em" style="font-size: 20;">20k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,112.20696982575436)">
+                            <g class="tick" opacity="1" transform="translate(0,104.85799258488706)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em" style="font-size: 20;">10k</text>
                             </g>
@@ -104,25 +96,21 @@
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em" style="font-size: 20;">0.0</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,169.79303017424567)">
+                            <g class="tick" opacity="1" transform="translate(0,177.14200741511294)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em" style="font-size: 20;">−10k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,198.5860603484913)">
+                            <g class="tick" opacity="1" transform="translate(0,213.28401483022589)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em" style="font-size: 20;">−20k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,227.37909052273693)">
+                            <g class="tick" opacity="1" transform="translate(0,249.42602224533888)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em" style="font-size: 20;">−30k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,256.1721206969826)">
-                                <line stroke="currentColor" x2="-6"/>
-                                <text fill="currentColor" x="-9" dy="0.32em" style="font-size: 20;">−40k</text>
-                            </g>
                         </g>
-                        <path d="M39,140.5L46.88235294117647,140.5L117.82352941176471,140.5L307,140.5L346.4117647058823,140.5L393.70588235294116,140.5L401.5882352941176,140.5L409.4705882352941,140.5L425.2352941176471,140.5L441,140.5L441,113.53244793880154L425.2352941176471,140.24086272843178L409.4705882352941,7.576976200594986L401.5882352941176,140.38194857628562L393.70588235294116,109.11559711007224L346.4117647058823,139.69379515512114L307,127.25232681682957L117.82352941176471,140.4625690607735L46.88235294117647,135.2942201444964L39,5Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L46.88235294117647,140.5L117.82352941176471,140.5L307,140.5L346.4117647058823,140.5L393.70588235294116,140.5L401.5882352941176,140.5L409.4705882352941,140.5L425.2352941176471,140.5L441,140.5L441,140.5374309392265L425.2352941176471,140.63820654483635L409.4705882352941,141.15072248193795L401.5882352941176,140.50287930301744L393.70588235294116,140.50575860603485L346.4117647058823,141.6344453888653L307,140.50287930301744L117.82352941176471,140.50575860603485L46.88235294117647,140.6036549086273L39,154.07879303017427Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L47.93333333333334,140.5L56.86666666666667,140.5L65.8,140.5L217.66666666666666,140.5L226.60000000000002,140.5L235.53333333333333,140.5L244.46666666666664,140.5L253.39999999999998,140.5L262.3333333333333,140.5L271.26666666666665,140.5L324.8666666666667,140.5L333.79999999999995,140.5L360.6,140.5L369.5333333333333,140.5L378.46666666666664,140.5L396.3333333333333,140.5L432.06666666666666,140.5L441,140.5L441,88.13023125550133L432.06666666666666,133.39086714144727L396.3333333333333,140.17472193326395L378.46666666666664,137.51105598677015L369.5333333333333,140.33013256514897L360.6,64.08495372222667L333.79999999999995,140.46024379184337L324.8666666666667,139.43019658051267L271.26666666666665,140.30844736069992L262.3333333333333,140.44217278813582L253.39999999999998,21.162705716038527L244.46666666666664,129.84895041476622L235.53333333333333,125.08543383745432L226.60000000000002,140.24700594809423L217.66666666666666,23.76854445066817L65.8,140.35543197033954L56.86666666666667,138.63507241738017L47.93333333333334,138.54471739884238L39,5Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L47.93333333333334,140.5L56.86666666666667,140.5L65.8,140.5L217.66666666666666,140.5L226.60000000000002,140.5L235.53333333333333,140.5L244.46666666666664,140.5L253.39999999999998,140.5L262.3333333333333,140.5L271.26666666666665,140.5L324.8666666666667,140.5L333.79999999999995,140.5L360.6,140.5L369.5333333333333,140.5L378.46666666666664,140.5L396.3333333333333,140.5L432.06666666666666,140.5L441,140.5L441,141.9601370995706L432.06666666666666,154.04963857992587L396.3333333333333,140.67348163559254L378.46666666666664,141.31319516684002L369.5333333333333,140.51807100370755L360.6,253.8268784508282L333.79999999999995,140.50722840148302L324.8666666666667,140.51084260222453L271.26666666666665,140.70962364300766L262.3333333333333,140.5650556133472L253.39999999999998,257.58203302125844L244.46666666666664,145.18400416099865L235.53333333333333,147.30192579552426L226.60000000000002,140.55421301112267L217.66666666666666,141.6131738283855L65.8,140.63011122669437L56.86666666666667,141.83002587287612L47.93333333333334,141.21199754607775L39,140.74215144968124Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
@@ -297,33 +285,29 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            feat: tests
-
-* jest
-* testing-library
-* cypress
+                            feat: linters
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">b5764aff</span>
-                            <span class="code">cypress/support/e2e.ts</span>
-                            <span class="code"><span class="snippet additions">++17</span> <span class="snippet deletions">--0</span></span>
+                            <span class="code">36d48011</span>
+                            <span class="code">.eslintrc.tests.cjs</span>
+                            <span class="code"><span class="snippet additions">++18</span> <span class="snippet deletions">--0</span></span>
                         </div>
                     </section>
                 </div>
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1,17 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">// ***********************************************************<br /></span><span class="token prefix inserted">+</span><span class="token line">// This example support/e2e.ts is processed and<br /></span><span class="token prefix inserted">+</span><span class="token line">// loaded automatically before your test files.<br /></span><span class="token prefix inserted">+</span><span class="token line">//<br /></span><span class="token prefix inserted">+</span><span class="token line">// This is a great place to put global configuration and<br /></span><span class="token prefix inserted">+</span><span class="token line">// behavior that modifies Cypress.<br /></span><span class="token prefix inserted">+</span><span class="token line">//<br /></span><span class="token prefix inserted">+</span><span class="token line">// You can change the location of this file or turn off<br /></span><span class="token prefix inserted">+</span><span class="token line">// automatically serving support files with the<br /></span><span class="token prefix inserted">+</span><span class="token line">// 'supportFile' configuration option.<br /></span><span class="token prefix inserted">+</span><span class="token line">//<br /></span><span class="token prefix inserted">+</span><span class="token line">// You can read more here:<br /></span><span class="token prefix inserted">+</span><span class="token line">// https://on.cypress.io/configuration<br /></span><span class="token prefix inserted">+</span><span class="token line">// ***********************************************************<br /></span><span class="token prefix inserted">+</span><span class="token line"><br /></span><span class="token prefix inserted">+</span><span class="token line">// Import commands.js using ES2015 syntax:<br /></span><span class="token prefix inserted">+</span><span class="token line">import "./commands";</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1,18 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">module.exports = {<br /></span><span class="token prefix inserted">+</span><span class="token line">extends: [<br /></span><span class="token prefix inserted">+</span><span class="token line">	'plugin:jest/all',<br /></span><span class="token prefix inserted">+</span><span class="token line">	'plugin:testing-library/react',<br /></span><span class="token prefix inserted">+</span><span class="token line">	'plugin:cypress/recommended',<br /></span><span class="token prefix inserted">+</span><span class="token line">],<br /></span><span class="token prefix inserted">+</span><span class="token line"><br /></span><span class="token prefix inserted">+</span><span class="token line">rules: {<br /></span><span class="token prefix inserted">+</span><span class="token line">	'jest/no-hooks': 'off',<br /></span><span class="token prefix inserted">+</span><span class="token line">	'jest/prefer-expect-assertions': [<br /></span><span class="token prefix inserted">+</span><span class="token line">		'warn',<br /></span><span class="token prefix inserted">+</span><span class="token line">		{ onlyFunctionsWithAsyncKeyword: true },<br /></span><span class="token prefix inserted">+</span><span class="token line">	],<br /></span><span class="token prefix inserted">+</span><span class="token line">	'jest/prefer-called-with': 'warn',<br /></span><span class="token prefix inserted">+</span><span class="token line">	'jest/prefer-lowercase-title': 'warn',<br /></span><span class="token prefix inserted">+</span><span class="token line">	'jest/require-to-throw-message': 'off',<br /></span><span class="token prefix inserted">+</span><span class="token line">},<br /></span><span class="token prefix inserted">+</span><span class="token line">}</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Oct 2022, 06:33:26 (timezone Asia/Omsk) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 30 Oct 2022, 06:43:24 (timezone Asia/Omsk) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
