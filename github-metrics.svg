@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1021" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1314" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.margin-lr-auto{margin-left:auto;margin-right:auto}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.snippet .token.prefix.unchanged{visibility:hidden}.markdown ul{padding-left:24px}code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code{display:inline-block}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}span.code{margin:0 4px -3px}.token.coord{color:#d2a8ff;font-weight:700}.token.inserted:not(.prefix){color:#aad0b4dc;background-color:#336543dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.margin-lr-auto{margin-left:auto;margin-right:auto}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details,.field.language.details small{display:flex;justify-content:space-between}.field.language.details small{color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.deleted{color:#da3633}.introduction{white-space:normal;margin:0 13px 2px}.snippet .body{padding-left:12px}.snippet .language-diff{font-size:77%}.snippet.additions{color:#336543}.snippet.deletions{color:#9a5256}.markdown ul{padding-left:24px}code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}code{display:inline-block}code[class^=language-]{white-space:pre-wrap;width:97%;margin-top:4px}span.code{margin:0 4px -3px}.token.coord{color:#d2a8ff;font-weight:700}.token.deleted:not(.prefix){color:#eed2d0dc;background-color:#9a5256dc}.space{margin-left:7px}.blue{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -64,19 +64,19 @@
                         </g>
                         <g transform="translate(39,0)" fill="none" font-size="10" font-family="sans-serif" text-anchor="end">
                             <path class="domain" stroke="currentColor" d="M-6,5.5H0.5V276.5H-6"/>
-                            <g class="tick" opacity="1" transform="translate(0,26.687771544269626)">
+                            <g class="tick" opacity="1" transform="translate(0,22.68263878277194)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">40k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,55.26582865820223)">
+                            <g class="tick" opacity="1" transform="translate(0,52.26197908707897)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">30k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,83.8438857721348)">
+                            <g class="tick" opacity="1" transform="translate(0,81.84131939138598)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">20k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,112.4219428860674)">
+                            <g class="tick" opacity="1" transform="translate(0,111.420659695693)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">10k</text>
                             </g>
@@ -84,25 +84,25 @@
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">0.0</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,169.5780571139326)">
+                            <g class="tick" opacity="1" transform="translate(0,170.579340304307)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−10k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,198.1561142278652)">
+                            <g class="tick" opacity="1" transform="translate(0,200.15868060861402)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−20k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,226.73417134179778)">
+                            <g class="tick" opacity="1" transform="translate(0,229.73802091292106)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−30k</text>
                             </g>
-                            <g class="tick" opacity="1" transform="translate(0,255.31222845573038)">
+                            <g class="tick" opacity="1" transform="translate(0,259.31736121722804)">
                                 <line stroke="currentColor" x2="-6"/>
                                 <text fill="currentColor" x="-9" dy="0.32em">−40k</text>
                             </g>
                         </g>
-                        <path d="M39,140.5L106.80722891566265,140.5L111.65060240963857,140.5L116.49397590361447,140.5L140.71084337349396,140.5L145.5542168674699,140.5L155.24096385542168,140.5L160.0843373493976,140.5L164.92771084337352,140.5L252.10843373493978,140.5L256.95180722891564,140.5L261.7951807228916,140.5L266.6385542168675,140.5L271.48192771084337,140.5L276.32530120481925,140.5L281.1686746987952,140.5L300.5421686746988,140.5L310.2289156626506,140.5L315.0722891566265,140.5L329.60240963855426,140.5L334.4457831325301,140.5L344.13253012048193,140.5L348.9759036144579,140.5L353.8192771084337,140.5L358.66265060240966,140.5L426.4698795180723,140.5L431.31325301204816,140.5L436.15662650602405,140.5L441,140.5L441,140.25708651453158L436.15662650602405,99.56479099000293L431.31325301204816,136.76484793520902L426.4698795180723,111.29322562956088L358.66265060240966,124.83636689585356L353.8192771084337,135.93322647319357L348.9759036144579,128.77442316615347L344.13253012048193,105.96913358923524L334.4457831325301,140.48285316573165L329.60240963855426,111.22749609819884L315.0722891566265,140.46856413717467L310.2289156626506,139.6540895094276L300.5421686746988,139.6998144008099L281.1686746987952,140.34853629729614L276.32530120481925,127.30551103049733L271.48192771084337,46.13811321550596L266.6385542168675,132.07804656852406L261.7951807228916,128.31145864090774L256.95180722891564,140.29995360020246L252.10843373493978,57.79510271227908L164.92771084337352,140.49142658286584L160.0843373493976,140.4142658286582L155.24096385542168,140.42569705150376L145.5542168674699,140.4942843885772L140.71084337349396,134.54433289745648L116.49397590361447,135.33308727380097L111.65060240963857,5L106.80722891566265,122.38436959547812L39,9.586778166786171Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L106.80722891566265,140.5L111.65060240963857,140.5L116.49397590361447,140.5L140.71084337349396,140.5L145.5542168674699,140.5L155.24096385542168,140.5L160.0843373493976,140.5L164.92771084337352,140.5L252.10843373493978,140.5L256.95180722891564,140.5L261.7951807228916,140.5L266.6385542168675,140.5L271.48192771084337,140.5L276.32530120481925,140.5L281.1686746987952,140.5L300.5421686746988,140.5L310.2289156626506,140.5L315.0722891566265,140.5L329.60240963855426,140.5L334.4457831325301,140.5L344.13253012048193,140.5L348.9759036144579,140.5L353.8192771084337,140.5L358.66265060240966,140.5L426.4698795180723,140.5L431.31325301204816,140.5L436.15662650602405,140.5L441,140.5L441,140.52000463997976L436.15662650602405,166.51460539081285L431.31325301204816,141.20302020500273L426.4698795180723,146.03842746868014L358.66265060240966,154.5746931286118L353.8192771084337,141.5202366389674L348.9759036144579,140.99440038807103L344.13253012048193,141.86603113004597L334.4457831325301,140.51143122284557L329.60240963855426,230.10364027502422L315.0722891566265,140.5057156114228L310.2289156626506,140.5085734171342L300.5421686746988,141.62597545028893L281.1686746987952,140.6657527312608L276.32530120481925,140.55429830851648L271.48192771084337,233.07861602058463L266.6385542168675,144.20371620196565L261.7951807228916,145.87839034884212L256.95180722891564,140.5428670856709L252.10843373493978,140.86865693676972L164.92771084337352,140.5085734171342L160.0843373493976,140.51428902855696L155.24096385542168,140.5428670856709L145.5542168674699,140.5057156114228L140.71084337349396,141.44021807904838L116.49397590361447,140.6028810056102L111.65060240963857,154.2174674146876L106.80722891566265,154.18603155186233L39,149.2191652254608Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L106.80722891566265,140.5L111.65060240963857,140.5L140.71084337349396,140.5L145.5542168674699,140.5L160.0843373493976,140.5L252.10843373493978,140.5L256.95180722891564,140.5L261.7951807228916,140.5L266.6385542168675,140.5L271.48192771084337,140.5L276.32530120481925,140.5L281.1686746987952,140.5L310.2289156626506,140.5L315.0722891566265,140.5L329.60240963855426,140.5L334.4457831325301,140.5L339.289156626506,140.5L348.9759036144579,140.5L368.34939759036143,140.5L373.1927710843373,140.5L426.4698795180723,140.5L431.31325301204816,140.5L436.15662650602405,140.5L441,140.5L441,118.28887336549585L436.15662650602405,98.13055294811063L431.31325301204816,136.63398022222708L426.4698795180723,110.26991420899824L373.1927710843373,97.63953589905913L368.34939759036143,134.6817437621428L348.9759036144579,105.9217511842651L339.289156626506,138.0537885568338L334.4457831325301,140.36097710056976L329.60240963855426,77.96040079460369L315.0722891566265,140.46746272566529L310.2289156626506,139.6244515269925L281.1686746987952,140.34322949638718L276.32530120481925,140.45267305551312L271.48192771084337,42.83197624920866L266.6385542168675,131.7829684123207L261.7951807228916,127.88441136021306L256.95180722891564,140.29294461786984L252.10843373493978,44.964646685149205L160.0843373493976,140.44971512148265L145.5542168674699,140.49408413193913L140.71084337349396,134.3356654805824L111.65060240963857,139.45289135322753L106.80722891566265,121.74965618109978L39,5Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L106.80722891566265,140.5L111.65060240963857,140.5L140.71084337349396,140.5L145.5542168674699,140.5L160.0843373493976,140.5L252.10843373493978,140.5L256.95180722891564,140.5L261.7951807228916,140.5L266.6385542168675,140.5L271.48192771084337,140.5L276.32530120481925,140.5L281.1686746987952,140.5L310.2289156626506,140.5L315.0722891566265,140.5L329.60240963855426,140.5L334.4457831325301,140.5L339.289156626506,140.5L348.9759036144579,140.5L368.34939759036143,140.5L373.1927710843373,140.5L426.4698795180723,140.5L431.31325301204816,140.5L436.15662650602405,140.5L441,140.5L441,142.37828810932348L436.15662650602405,167.4260734790107L431.31325301204816,141.22765177148597L426.4698795180723,146.2324761509747L373.1927710843373,141.69500534829402L368.34939759036143,151.58929468008472L348.9759036144579,140.70409744809976L339.289156626506,141.16553515684691L334.4457831325301,140.51478967015217L329.60240963855426,233.24897945818506L315.0722891566265,140.50591586806087L310.2289156626506,140.5088738020913L281.1686746987952,140.671560173765L276.32530120481925,140.55324281254775L271.48192771084337,236.32227291580259L266.6385542168675,144.3334825034382L261.7951807228916,146.06683184527057L256.95180722891564,140.54436901045645L252.10843373493978,141.41104368137266L160.0843373493976,140.5088738020913L145.5542168674699,140.50591586806087L140.71084337349396,141.4731602960117L111.65060240963857,140.74846645855618L106.80722891566265,154.66554607173262L39,149.52465672684409Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
@@ -121,14 +121,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="137.00079423511636" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="137.00079423511636" y="0" width="130.48835622325151" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="267.4891504583679" y="0" width="95.0438693229534" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="362.5330197813213" y="0" width="89.38597444986016" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="451.91899423118144" y="0" width="3.881645506047888" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="455.8006397372293" y="0" width="1.8357911130578672" height="8" fill="#ff5a03"/>
-                    <rect mask="url(#languages-bar)" x="457.6364308502871" y="0" width="1.2627613494334216" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="458.8991921997206" y="0" width="1.1008078002793802" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="136.4927457222648" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="136.4927457222648" y="0" width="129.6191362755031" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="266.1118819977679" y="0" width="94.43157423741366" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="360.54345623518157" y="0" width="91.22543548810154" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="451.7688917232831" y="0" width="3.855788764484126" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="455.6246804877672" y="0" width="1.8382303779630418" height="8" fill="#ff5a03"/>
+                    <rect mask="url(#languages-bar)" x="457.4629108657303" y="0" width="1.2827393963083158" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="458.74565026203857" y="0" width="1.2543497379613961" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -140,8 +140,8 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>287 kB</div>
-                                <div>29.78%</div>
+                                <div>288 kB</div>
+                                <div>29.67%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -153,7 +153,7 @@
                             </div>
                             <small>
                                 <div>199 kB</div>
-                                <div>20.66%</div>
+                                <div>20.53%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -171,13 +171,13 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#384d54" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Shell
+                                Dockerfile
                             </div>
                             <small>
-                                <div>2.65 kB</div>
-                                <div>0.27%</div>
+                                <div>2.71 kB</div>
+                                <div>0.28%</div>
                             </small>
                         </div>
                     </section>
@@ -191,7 +191,7 @@
                             </div>
                             <small>
                                 <div>273 kB</div>
-                                <div>28.37%</div>
+                                <div>28.18%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -202,8 +202,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>187 kB</div>
-                                <div>19.43%</div>
+                                <div>192 kB</div>
+                                <div>19.83%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -214,20 +214,20 @@
                                 Astro
                             </div>
                             <small>
-                                <div>3.85 kB</div>
+                                <div>3.88 kB</div>
                                 <div>0.4%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#384d54" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Dockerfile
+                                Shell
                             </div>
                             <small>
-                                <div>2.31 kB</div>
-                                <div>0.24%</div>
+                                <div>2.65 kB</div>
+                                <div>0.27%</div>
                             </small>
                         </div>
                     </section>
@@ -239,7 +239,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 2 commits)</small>
+                    <small class="h-details">(computed from last 3 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -280,29 +280,29 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            style: global-css
+                            refactor(lit-wc): remove examples
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">574c901e</span>
-                            <span class="code">configs/postcss-config-custom/package.json</span>
-                            <span class="code"><span class="snippet additions">++4</span> <span class="snippet deletions">--0</span></span>
+                            <span class="code">a422bdc3</span>
+                            <span class="code">packages/lit-wc/src/stories/assets/plugin.svg</span>
+                            <span class="code"><span class="snippet additions">++0</span> <span class="snippet deletions">--1</span></span>
                         </div>
                     </section>
                 </div>
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -2,9 +2,13 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">"name": "postcss-config-custom",<br /></span><span class="token prefix unchanged">·</span><span class="token line">"version": "0.0.0",<br /></span><span class="token prefix unchanged">·</span><span class="token line">"main": "index.js",<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">"files": [<br /></span><span class="token prefix inserted">+</span><span class="token line">  "lit.js"<br /></span><span class="token prefix inserted">+</span><span class="token line">],<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">"license": "MIT",<br /></span><span class="token prefix unchanged">·</span><span class="token line">"dependencies": {<br /></span><span class="token prefix unchanged">·</span><span class="token line">  "postcss": "^8.4.18",<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">  "postcss-normalize": "^10.0.1",<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">  "postcss-preset-env": "^7.8.2"<br /></span><span class="token prefix unchanged">·</span><span class="token line">},<br /></span><span class="token prefix unchanged">·</span><span class="token line">"devDependencies": {},</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1 +0,0 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">&lt;svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" version="1.1" viewBox="0 0 48 48"&gt;&lt;title&gt;illustration/plugin&lt;/title&gt;&lt;g id="illustration/plugin" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"&gt;&lt;path id="Combined-Shape" fill="#79C9FC" d="M26,15.3994248 C26,15.4091303 26,15.4188459 26,15.4285714 L26,21.4694881 C25.8463595,21.4969567 25.6941676,21.51275 25.5873784,21.51275 C25.4974117,21.51275 25.4230979,21.4768034 25.377756,21.4206259 L25.2660784,21.2822603 L25.1317423,21.1657666 C24.2436317,20.3956144 23.100098,19.9633214 21.895551,19.9633214 C19.2039137,19.9633214 17,22.1075558 17,24.7804643 C17,27.4533728 19.2039137,29.5976071 21.895551,29.5976071 C23.1972122,29.5976071 24.3149423,29.2878193 25.1231445,28.3613697 C25.4542273,27.9818463 25.568273,27.9073214 25.5873784,27.9073214 C25.681532,27.9073214 25.8352452,27.9239643 26,27.9524591 L26,32.5714286 C26,32.5811541 26,32.5908697 26,32.6005752 L26,33 C26,35.209139 24.209139,37 22,37 L4,37 C1.790861,37 0,35.209139 0,33 L0,15 C0,12.790861 1.790861,11 4,11 L22,11 C24.209139,11 26,12.790861 26,15 L26,15.3994248 Z"/&gt;&lt;path id="Path" fill="#87E6E5" d="M27.9998779,32.5714286 C27.9998779,33.3604068 28.6572726,34 29.4682101,34 L46.5315458,34 C47.3424832,34 47.9998779,33.3604068 47.9998779,32.5714286 L47.9998779,15.4285714 C47.9998779,14.6395932 47.3424832,14 46.5315458,14 L29.4682101,14 C28.6572726,14 27.9998779,14.6395932 27.9998779,15.4285714 L27.9998779,21.8355216 C27.9334367,22.2650514 27.8567585,22.6454496 27.746391,22.8084643 C27.4245309,23.2838571 26.2402709,23.51275 25.5873784,23.51275 C24.8705773,23.51275 24.2322714,23.1857725 23.8214379,22.6767605 C23.3096996,22.2329909 22.6349941,21.9633214 21.895551,21.9633214 C20.2963823,21.9633214 19,23.2245992 19,24.7804643 C19,26.3363293 20.2963823,27.5976071 21.895551,27.5976071 C22.5398535,27.5976071 23.2399343,27.477727 23.6160247,27.0466112 C24.1396029,26.4464286 24.7367044,25.9073214 25.5873784,25.9073214 C26.2402709,25.9073214 27.5912951,26.1766031 27.8226692,26.6116071 C27.8819199,26.7230038 27.9403239,26.921677 27.9998779,27.1556219 L27.9998779,32.5714286 Z"/&gt;&lt;/g&gt;&lt;/svg&gt;<br /></span></span>\No newline at end of file</code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Nov 2022, 06:37:05 (timezone Asia/Omsk) with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 25 Nov 2022, 06:34:00 (timezone Asia/Omsk) with lowlighter/metrics@3.29.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
