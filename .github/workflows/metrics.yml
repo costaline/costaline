@@ -16,7 +16,7 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           
-          template: repository
+          template: classic
           base: metadata
           config_timezone: Asia/Omsk
 
