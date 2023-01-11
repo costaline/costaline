@@ -16,17 +16,12 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           
-          template: terminal
+          template: repository
           base: metadata
           config_timezone: Asia/Omsk
 
           repositories_skipped: |
             costaline.github.io--old
-            piroll
-            eatives-da
-            simple-home
-            waxom
-            amazing
           
           plugin_languages: yes
           plugin_languages_threshold: 0%
