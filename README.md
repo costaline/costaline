@@ -103,6 +103,22 @@
       height="40"
     /> 
   </a> 
+     <a href="https://solidjs.com/"	target="_blank"> 
+    <img
+	    src="https://www.solidjs.com/assets/logo-123b04bc.svg"
+	    alt="solid js" 
+      width="40" 
+      height="40"
+    /> 
+  </a> 
+   <a href="https://svelte.dev/"	target="_blank"> 
+    <img
+	    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg"
+	    alt="svelte" 
+      width="40" 
+      height="40"
+    /> 
+  </a> 
   <a href="https://www.typescriptlang.org/" target="_blank"> 
     <img
 	    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
